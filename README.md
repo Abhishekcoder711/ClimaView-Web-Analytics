@@ -25,14 +25,46 @@ This project focuses on applying web analytics and digital marketing techniques 
 
 ## 📸 Screenshots
 
-### Microsoft Clarity
-![Clarity](clarity.png)
+### 🔹 Microsoft Clarity (User Behavior)
+![Clarity Dashboard](clarity-dashboard.png)
+![Session Recording](clarity-recording.png)
+![Heatmap](clarity-heatmap.png)
 
-### Google Analytics
-![GA](ga.png)
+---
 
-### Google Search Console
-![GSC](gsc.png)
+### 🔹 Google Analytics (Traffic Analysis)
+![Realtime Users](ga-realtime.png)
+![GA Dashboard](ga-dashboard.png)
+
+---
+
+### 🔹 Google Search Console (Indexing & Performance)
+![GSC Verification](gsc-verification.png)
+![Sitemap Submission](gsc-sitemap.png)
+![URL Inspection](gsc-url.png)
+
+---
+
+### 🔹 SEO Implementation
+![Meta Tags](seo-meta.png)
+
+---
+
+### 🔹 Google Ads Campaign
+![Campaign Setup](google-ads.png)
+
+---
+
+### 🔹 Email Marketing (SendPulse)
+![Email Template](email-template.png)
+![Campaign Status](email-campaign.png)
+
+---
+
+### 🔹 Social Media & Backlinks
+![LinkedIn Post](linkedin.png)
+![Medium Article](medium.png)
+![Quora Answer](quora.png)
 
 
 ## 🎯 Conclusion
