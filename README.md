@@ -26,45 +26,28 @@ This project focuses on applying web analytics and digital marketing techniques 
 ## 📸 Screenshots
 
 ### 🔹 Microsoft Clarity (User Behavior)
-![Clarity Dashboard](clarity-dashboard.png)
-![Session Recording](clarity-recording.png)
-![Heatmap](clarity-heatmap.png)
+![Clarity Dashboard](https://github.com/Abhishekcoder711/ClimaView-Web-Analytics/blob/main/Screenshot%202026-04-17%20120640.png)
 
 ---
 
 ### 🔹 Google Analytics (Traffic Analysis)
-![Realtime Users](ga-realtime.png)
-![GA Dashboard](ga-dashboard.png)
-
----
-
-### 🔹 Google Search Console (Indexing & Performance)
-![GSC Verification](gsc-verification.png)
-![Sitemap Submission](gsc-sitemap.png)
-![URL Inspection](gsc-url.png)
-
----
-
-### 🔹 SEO Implementation
-![Meta Tags](seo-meta.png)
-
----
-
-### 🔹 Google Ads Campaign
-![Campaign Setup](google-ads.png)
+![GA Dashboard](https://github.com/Abhishekcoder711/ClimaView-Web-Analytics/blob/main/Screenshot%202026-04-17%20120744.png)
 
 ---
 
 ### 🔹 Email Marketing (SendPulse)
-![Email Template](email-template.png)
-![Campaign Status](email-campaign.png)
+![Campaign Status](https://github.com/Abhishekcoder711/ClimaView-Web-Analytics/blob/main/Screenshot%202026-04-17%20121307.png)
+
+---
+
+### 🔹 Facebook Ads Campaign
+![Facebook Campaign](https://github.com/Abhishekcoder711/ClimaView-Web-Analytics/blob/main/Screenshot%202026-04-17%20122150.png)
+
 
 ---
 
 ### 🔹 Social Media & Backlinks
-![LinkedIn Post](linkedin.png)
-![Medium Article](medium.png)
-![Quora Answer](quora.png)
+![LinkedIn Post](https://github.com/Abhishekcoder711/ClimaView-Web-Analytics/blob/main/Screenshot%202026-04-17%20120154.png)
 
 
 ## 🎯 Conclusion
